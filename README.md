@@ -1,4 +1,4 @@
-This is a simple addon to toggle the status of the Kodi (XBMC) addon for boblight (http://code.google.com/p/boblight/).
+This is a simple addon to toggle the status of the Kodi (XBMC) addon for boblight (https://github.com/bobo1on1/script.xbmc.boblight).
 
 You can run the script by placing something like this in your keymap file:
 
